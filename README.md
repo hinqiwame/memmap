@@ -8,4 +8,4 @@ Example usage:
 [+] Open memory address range: 0x5605b3901000 - 0x5605b3905000
 [+] Open memory address range: 0xbf46f6000 - 0x7f0bf46f7000
 ```
-Download stable build [here](https://github.com/meth1337/memmap/releases/latest)
+Download stable build [here](https://github.com/meth1337/memmap/releases/latest) (filename: `memmap`)
